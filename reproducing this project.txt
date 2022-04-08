@@ -1,0 +1,8 @@
+Clone the repository and change the directory to ecbs5241. Then run master.do for stata output.
+
+For the python exercise you have two options:
+1. run py_exercises.ipynb in VSCode or
+2. run it in jupyter notebook from the terminal 
+
+I have logged into github through VSCode and was pushing, pulling, staging, committing, and commenting the changes from within VSCode. 
+I am used to work with .ipynb files on jupyter notebook so I ran `jupyter notebook` in terminal to experiment in the .ipynb file. But you can do the same in VSCode. 
