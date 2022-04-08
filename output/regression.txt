@@ -1,0 +1,12 @@
+		(1)
+VARIABLES	LABELS	price
+		
+bedrooms	bedrooms	809,888***
+		(162,331)
+Constant	Constant	1.721e+06***
+		(475,302)
+		
+Observations		178
+R-squared		0.124
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
