@@ -21,6 +21,7 @@ Final project for ECBS 5241 Coding for Economists
 5. Automate repeating tasks using Stata “for” loops.
 6. Break up work into smaller components using Stata .do files.
 7. Read .csv data in in Stata.
+done
 8. Fix common data quality errors in Stata (for example, string vs number, missing value).
 9. Aggregate, reshape, and combine data for analysis in Python or Stata. Demonstrate at least one of these data manipulations.
     
