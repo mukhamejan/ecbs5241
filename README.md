@@ -3,6 +3,7 @@ Final project for ECBS 5241 Coding for Economists
 
 ## Learning Outcomes to Demonstrate
 1. Understand folder structure. Perform operations on files in different folders.
+`pwd` prints working directory, `cd` changes the directory. 
 2. Automate repeating tasks using Python “for” loops.
 3. Break up work into smaller components using Python functions.
 4. Use Python “lists” and “dictionaries” appropriately. Demonstrate one of the two.
